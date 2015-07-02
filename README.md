@@ -4,7 +4,7 @@ Create a new folder (name it something unique) and upload all your uBiome data i
 
 # Samples
 
-[Alexandra Carmichael](./accarmichael):  contact = [@accarmichael](http://twitter.com/accarmichael)
+[Alexandra Carmichael](https://github.com/ubiome-opensource/microbiome-data/tree/master/carmichael):  contact = [@accarmichael](http://twitter.com/accarmichael)
 
 [Richard Sprague](./sprague):  contact = [@sprague](http://twitter.com/sprague)
 
