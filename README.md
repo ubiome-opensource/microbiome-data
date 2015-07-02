@@ -4,6 +4,7 @@ Create a new folder (name it something unique) and upload all your uBiome data i
 
 # Samples
 
+[Alexandra Carmichael](./accarmichael):  contact = [@accarmichael](http://twitter.com/accarmichael)
 [Richard Sprague](./sprague):  contact = [@sprague](http://twitter.com/sprague)
 
 # Important Note
