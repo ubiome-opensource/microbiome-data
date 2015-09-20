@@ -1,0 +1,389 @@
+count	count_norm	parent	tax_rank	tax_color	avg	taxon	tax_name	sample_date
+100993	1003727	0	root	null	null	1	root	6/13/2015
+100618	1000000	131567	superkingdom	null	null	2	Bacteria	6/13/2015
+6	60	203692	order	null	null	136	Spirochaetales	6/13/2015
+2	20	136	family	null	null	137	Spirochaetaceae	6/13/2015
+4	40	136	family	null	null	170	Leptospiraceae	6/13/2015
+356	3538	72294	genus	null	null	194	Campylobacter	6/13/2015
+5	50	135621	genus	null	null	286	Pseudomonas	6/13/2015
+5	50	28211	order	null	null	356	Rhizobiales	6/13/2015
+329	3270	206351	family	null	null	481	Neisseriaceae	6/13/2015
+5	50	91347	family	null	null	543	Enterobacteriaceae	6/13/2015
+5	50	122277	species	null	null	554	Pectobacterium carotovorum	6/13/2015
+5	50	28211	order	null	null	766	Rickettsiales	6/13/2015
+15149	150560	171549	family	null	null	815	Bacteroidaceae	6/13/2015
+14041	139548	815	genus	null	null	816	Bacteroides	6/13/2015
+5677	56421	816	species	null	null	817	Bacteroides fragilis	6/13/2015
+658	6540	816	species	null	null	820	Bacteroides uniformis	6/13/2015
+2516	25005	375288	species	null	null	823	Parabacteroides distasonis	6/13/2015
+172	1709	194	species	null	null	827	Campylobacter ureolyticus	6/13/2015
+4602	45737	171551	genus	null	null	836	Porphyromonas	6/13/2015
+861	8557	171552	genus	null	null	838	Prevotella	6/13/2015
+675	6709	186803	genus	null	null	841	Roseburia	6/13/2015
+7891	78425	216851	species	null	null	853	Faecalibacterium prausnitzii	6/13/2015
+4	40	194924	genus	null	null	872	Desulfovibrio	6/13/2015
+10	99	31977	genus	null	null	906	Megasphaera	6/13/2015
+2	20	766	family	null	null	942	Anaplasmataceae	6/13/2015
+2	20	942	tribe	null	null	952	Wolbachieae	6/13/2015
+2	20	952	genus	null	null	953	Wolbachia	6/13/2015
+26870	267050	68336	phylum	e65848	null	976	Bacteroidetes	6/13/2015
+5	50	2	phylum	null	null	1117	Cyanobacteria	6/13/2015
+4107	40818	2	phylum	2ab69d	null	1224	Proteobacteria	6/13/2015
+58	576	1224	class	null	null	1236	Gammaproteobacteria	6/13/2015
+54760	544237	2	phylum	5E6591	null	1239	Firmicutes	6/13/2015
+57	566	162289	species	null	null	1258	Peptoniphilus asaccharolyticus	6/13/2015
+6193	61550	150022	species	null	null	1260	Finegoldia magna	6/13/2015
+1854	18426	541000	genus	null	null	1263	Ruminococcus	6/13/2015
+2	20	85006	family	null	null	1268	Micrococcaceae	6/13/2015
+25	248	90964	genus	null	null	1279	Staphylococcus	6/13/2015
+16	159	1279	species	null	null	1281	Staphylococcus carnosus	6/13/2015
+15	149	186826	family	null	null	1300	Streptococcaceae	6/13/2015
+15	149	1300	genus	null	null	1301	Streptococcus	6/13/2015
+2	20	1301	species	null	null	1308	Streptococcus thermophilus	6/13/2015
+2	20	539738	genus	null	null	1378	Gemella	6/13/2015
+46	457	91061	order	null	null	1385	Bacillales	6/13/2015
+15	149	186817	genus	null	null	1386	Bacillus	6/13/2015
+882	8766	31979	genus	null	null	1485	Clostridium	6/13/2015
+101	1004	1485	species	null	null	1531	Clostridium clostridioforme	6/13/2015
+2	20	1505663	species	null	null	1547	Erysipelatoclostridium ramosum	6/13/2015
+809	8040	85007	family	null	null	1653	Corynebacteriaceae	6/13/2015
+512	5089	1653	genus	null	null	1716	Corynebacterium	6/13/2015
+2	20	1716	species	null	null	1717	Corynebacterium diphtheriae	6/13/2015
+62	616	186806	genus	null	null	1730	Eubacterium	6/13/2015
+1275	12672	201174	class	null	null	1760	Actinobacteria	6/13/2015
+2	20	85025	genus	null	null	1817	Nocardia	6/13/2015
+2	20	2070	genus	null	null	1847	Pseudonocardia	6/13/2015
+969	9630	85003	order	null	null	2037	Actinomycetales	6/13/2015
+130	1292	85005	family	null	null	2049	Actinomycetaceae	6/13/2015
+20	199	85010	family	null	null	2070	Pseudonocardiaceae	6/13/2015
+4	40	31969	order	null	null	2085	Mycoplasmatales	6/13/2015
+4	40	2085	family	null	null	2092	Mycoplasmataceae	6/13/2015
+13431	133485	2	no_rank	null	null	2323	unclassified Bacteria	6/13/2015
+55	547	186807	genus	null	null	2740	Peptococcus	6/13/2015
+2	20	2740	species	null	null	2741	Peptococcus niger	6/13/2015
+375	3727	1	no_rank	null	null	12908	unclassified sequences	6/13/2015
+13	129	48479	species	null	null	13136	unidentified marine bacterioplankton	6/13/2015
+4	40	186803	genus	null	null	28050	Lachnospira	6/13/2015
+2	20	85008	family	null	null	28056	Micromonosporaceae	6/13/2015
+8	80	816	species	null	null	28116	Bacteroides ovatus	6/13/2015
+1578	15683	239759	species	null	null	28117	Alistipes putredinis	6/13/2015
+76	755	283168	species	null	null	28118	Odoribacter splanchnicus	6/13/2015
+308	3061	836	species	null	null	28123	Porphyromonas asaccharolytica	6/13/2015
+219	2177	838	species	null	null	28127	Prevotella buccalis	6/13/2015
+532	5287	838	species	null	null	28128	Prevotella corporis	6/13/2015
+17	169	1224	class	null	null	28211	Alphaproteobacteria	6/13/2015
+3289	32688	1224	class	null	null	28216	Betaproteobacteria	6/13/2015
+387	3846	68525	class	null	null	28221	Deltaproteobacteria	6/13/2015
+2	20	135619	family	null	null	28256	Halomonadaceae	6/13/2015
+3	30	1485	species	null	null	29347	Clostridium scindens	6/13/2015
+87	865	1505663	species	null	null	29348	[Clostridium] spiroforme	6/13/2015
+356	3538	68525	class	null	null	29547	Epsilonproteobacteria	6/13/2015
+15	149	544448	class	null	null	31969	Mollicutes	6/13/2015
+477	4741	909929	family	null	null	31977	Veillonellaceae	6/13/2015
+948	9422	186802	family	null	null	31979	Clostridiaceae	6/13/2015
+5	50	28216	order	null	null	32003	Nitrosomonadales	6/13/2015
+4	40	119060	genus	null	null	32008	Burkholderia	6/13/2015
+2	20	206350	family	null	null	32011	Methylophilaceae	6/13/2015
+4	40	170	genus	null	null	32205	Leptonema	6/13/2015
+1165	11578	165779	species	null	null	33029	Anaerococcus hydrogenalis	6/13/2015
+223	2216	162289	species	null	null	33030	Peptoniphilus indolicus	6/13/2015
+42	417	165779	species	null	null	33034	Anaerococcus prevotii	6/13/2015
+1899	18873	165779	species	null	null	33037	Anaerococcus vaginalis	6/13/2015
+2	20	572511	species	null	null	33039	[Ruminococcus] torques	6/13/2015
+301	2992	186803	genus	null	null	33042	Coprococcus	6/13/2015
+5	50	82117	no_rank	null	null	33807	unclassified Alphaproteobacteria (miscellaneous)	6/13/2015
+2	20	118884	no_rank	null	null	33811	unclassified Gammaproteobacteria (miscellaneous)	6/13/2015
+375	3727	194924	genus	null	null	35832	Bilophila	6/13/2015
+206	2047	35832	species	null	null	35833	Bilophila wadsworthia	6/13/2015
+95	944	1716	species	null	null	38304	Corynebacterium tuberculostearicum	6/13/2015
+33	328	1730	species	null	null	39484	Eubacterium desmolans	6/13/2015
+26	258	189330	species	null	null	39486	Dorea formicigenerans	6/13/2015
+1612	16021	186813	no_rank	null	null	39779	unclassified Clostridiales (miscellaneous)	6/13/2015
+124	1232	31977	genus	null	null	39948	Dialister	6/13/2015
+451	4482	572511	species	null	null	40520	[Ruminococcus] obeum	6/13/2015
+7	70	543310	genus	null	null	41273	Tissierella	6/13/2015
+3	30	356	family	null	null	41294	Bradyrhizobiaceae	6/13/2015
+52	517	31977	no_rank	null	null	42214	unclassified Veillonellaceae	6/13/2015
+5	50	186814	no_rank	null	null	42857	Moorella group	6/13/2015
+211	2097	1716	species	null	null	43765	Corynebacterium amycolatum	6/13/2015
+4	40	31979	genus	null	null	44258	Caloramator	6/13/2015
+5	50	42857	genus	null	null	44260	Moorella	6/13/2015
+93	924	186803	genus	null	null	46205	Pseudobutyrivibrio	6/13/2015
+1158	11509	1263	species	null	null	46228	Ruminococcus lactaris	6/13/2015
+230	2286	375288	species	null	null	46503	Parabacteroides merdae	6/13/2015
+15	149	816	species	null	null	47678	Bacteroides caccae	6/13/2015
+61	606	2	no_rank	null	null	48479	environmental samples	6/13/2015
+2	20	119060	genus	null	null	48736	Ralstonia	6/13/2015
+6	60	200644	family	null	null	49546	Flavobacteriaceae	6/13/2015
+13431	133485	2323	no_rank	null	null	49928	unclassified Bacteria (miscellaneous)	6/13/2015
+15	149	2	superphylum	null	null	51290	Chlamydiae/Verrucomicrobia group	6/13/2015
+4	40	1760	no_rank	null	null	52018	unclassified Actinobacteria	6/13/2015
+2	20	85021	genus	null	null	53457	Janibacter	6/13/2015
+4	40	162289	species	null	null	54006	Peptoniphilus ivorii	6/13/2015
+520	5168	165779	species	null	null	54007	Anaerococcus octavius	6/13/2015
+6	60	815	no_rank	null	null	57016	environmental samples	6/13/2015
+51	507	131550	phylum	null	null	57723	Acidobacteria	6/13/2015
+5	50	128827	genus	null	null	61170	Holdemania	6/13/2015
+3	30	61170	species	null	null	61171	Holdemania filiformis	6/13/2015
+2	20	49546	no_rank	null	null	61432	unclassified Flavobacteriaceae	6/13/2015
+73	726	1716	species	null	null	62629	Corynebacterium thomssenii	6/13/2015
+5	50	79880	no_rank	null	null	66692	Bacillus clausii KSM-K16	6/13/2015
+5	50	186801	order	null	null	68295	Thermoanaerobacterales	6/13/2015
+26881	267159	2	superphylum	null	null	68336	Bacteroidetes/Chlorobi group	6/13/2015
+2	20	200930	class	null	null	68337	Deferribacteres	6/13/2015
+743	7384	1224	subphylum	null	null	68525	delta/epsilon subdivisions	6/13/2015
+4	40	28221	order	null	null	69541	Desulfuromonadales	6/13/2015
+2	20	204455	family	null	null	69657	Hyphomonadaceae	6/13/2015
+5	50	1236	order	null	null	72274	Pseudomonadales	6/13/2015
+11	109	135613	family	null	null	72276	Ectothiorhodospiraceae	6/13/2015
+356	3538	213849	family	null	null	72294	Campylobacteraceae	6/13/2015
+4	40	51290	phylum	fdc536	null	74201	Verrucomicrobia	6/13/2015
+7	70	102106	species	null	null	74426	Collinsella aerofaciens	6/13/2015
+3	30	80840	family	null	null	75682	Oxalobacteraceae	6/13/2015
+179	1779	194	species	null	null	76517	Campylobacter hominis	6/13/2015
+4	40	52018	no_rank	null	null	78537	unclassified Actinobacteria (miscellaneous)	6/13/2015
+5	50	1386	species	null	null	79880	Bacillus clausii	6/13/2015
+2941	29229	28216	order	null	null	80840	Burkholderiales	6/13/2015
+5	50	28211	no_rank	null	null	82117	unclassified Alphaproteobacteria	6/13/2015
+25	248	1485	species	null	null	84026	Clostridium methylpentosum	6/13/2015
+2	20	1485	species	null	null	84030	Clostridium saccharolyticum	6/13/2015
+295	2932	255727	family	null	null	84107	Coriobacteriaceae	6/13/2015
+191	1898	84107	genus	null	null	84111	Eggerthella	6/13/2015
+184	1829	84111	species	null	null	84112	Eggerthella lenta	6/13/2015
+295	2932	1760	subclass	null	null	84998	Coriobacteridae	6/13/2015
+295	2932	84998	order	null	null	84999	Coriobacteriales	6/13/2015
+969	9630	1760	subclass	null	null	85003	Actinobacteridae	6/13/2015
+130	1292	2037	suborder	null	null	85005	Actinomycineae	6/13/2015
+4	40	2037	suborder	null	null	85006	Micrococcineae	6/13/2015
+811	8060	2037	suborder	null	null	85007	Corynebacterineae	6/13/2015
+2	20	2037	suborder	null	null	85008	Micromonosporineae	6/13/2015
+20	199	2037	suborder	null	null	85010	Pseudonocardineae	6/13/2015
+2	20	2037	suborder	null	null	85012	Streptosporangineae	6/13/2015
+2	20	85006	family	null	null	85021	Intrasporangiaceae	6/13/2015
+2	20	85007	family	null	null	85025	Nocardiaceae	6/13/2015
+25	248	1385	family	null	null	90964	Staphylococcaceae	6/13/2015
+63	626	1239	class	null	null	91061	Bacilli	6/13/2015
+5	50	1236	order	null	null	91347	Enterobacteriales	6/13/2015
+23	229	84107	genus	null	null	102106	Collinsella	6/13/2015
+217	2157	39779	species	null	null	105837	butyrate-producing bacterium T2-132	6/13/2015
+66	656	39779	species	null	null	105840	butyrate-producing bacterium L2-10	6/13/2015
+28	278	1017280	species	null	null	106588	Pseudoflavonifractor capillosus	6/13/2015
+4	40	255526	genus	null	null	109262	Halothiobacillus	6/13/2015
+2	20	186828	genus	null	null	117563	Granulicatella	6/13/2015
+8	80	976	class	null	null	117743	Flavobacteriia	6/13/2015
+133	1322	976	class	null	null	117747	Sphingobacteriia	6/13/2015
+13	129	1236	no_rank	null	null	118884	unclassified Gammaproteobacteria	6/13/2015
+8	80	80840	family	null	null	119060	Burkholderiaceae	6/13/2015
+2	20	80840	no_rank	null	null	119065	unclassified Burkholderiales	6/13/2015
+5	50	543	genus	null	null	122277	Pectobacterium	6/13/2015
+810	8050	526525	family	null	null	128827	Erysipelotrichaceae	6/13/2015
+51	507	2	superphylum	null	null	131550	Fibrobacteres/Acidobacteria group	6/13/2015
+100618	1000000	1	no_rank	null	null	131567	cellular organisms	6/13/2015
+8	80	1716	species	null	null	134034	Corynebacterium freneyi	6/13/2015
+15	149	1236	order	null	null	135613	Chromatiales	6/13/2015
+2	20	1236	order	null	null	135619	Oceanospirillales	6/13/2015
+5	50	72274	family	null	null	135621	Pseudomonadaceae	6/13/2015
+2	20	286	species_group	null	null	136843	Pseudomonas fluorescens group	6/13/2015
+6388	63488	543310	genus	null	null	150022	Finegoldia	6/13/2015
+688	6838	1485	species	null	null	160404	Clostridium lactatifermentans	6/13/2015
+6789	67473	543310	genus	null	null	162289	Peptoniphilus	6/13/2015
+4	40	543310	genus	null	null	162290	Gallicola	6/13/2015
+8664	86108	543310	genus	null	null	165779	Anaerococcus	6/13/2015
+2	20	1263	species	null	null	169434	Ruminococcus sp. 14531	6/13/2015
+26687	265231	200643	order	null	null	171549	Bacteroidales	6/13/2015
+1835	18237	171549	family	null	null	171550	Rikenellaceae	6/13/2015
+8735	86813	171549	family	null	null	171551	Porphyromonadaceae	6/13/2015
+896	8905	171549	family	null	null	171552	Prevotellaceae	6/13/2015
+188	1868	186803	genus	null	null	177971	Shuttleworthia	6/13/2015
+130	1292	2049	genus	null	null	184869	Varibaculum	6/13/2015
+130	1292	184869	species	null	null	184870	Varibaculum cambriense	6/13/2015
+3	30	333046	no_rank	null	null	185291	unclassified Bacteroidales (miscellaneous)	6/13/2015
+53398	530700	1239	class	null	null	186801	Clostridia	6/13/2015
+53384	530561	186801	order	null	null	186802	Clostridiales	6/13/2015
+12845	127661	186802	family	null	null	186803	Lachnospiraceae	6/13/2015
+217	2157	186802	family	null	null	186804	Peptostreptococcaceae	6/13/2015
+62	616	186802	family	null	null	186806	Eubacteriaceae	6/13/2015
+64	636	186802	family	null	null	186807	Peptococcaceae	6/13/2015
+2116	21030	186802	no_rank	null	null	186813	unclassified Clostridiales	6/13/2015
+5	50	68295	family	null	null	186814	Thermoanaerobacteraceae	6/13/2015
+15	149	1385	family	null	null	186817	Bacillaceae	6/13/2015
+4	40	1385	family	null	null	186824	Thermoactinomycetaceae	6/13/2015
+17	169	91061	order	null	null	186826	Lactobacillales	6/13/2015
+2	20	186826	family	null	null	186828	Carnobacteriaceae	6/13/2015
+1938	19261	186803	no_rank	null	null	186928	unclassified Lachnospiraceae	6/13/2015
+69	686	186803	genus	null	null	189330	Dorea	6/13/2015
+24	239	31979	no_rank	null	null	189971	unclassified Clostridiaceae	6/13/2015
+379	3767	213115	family	null	null	194924	Desulfovibrionaceae	6/13/2015
+217	2157	186804	no_rank	null	null	200630	unclassified Peptostreptococcaceae	6/13/2015
+26699	265350	976	class	null	null	200643	Bacteroidia	6/13/2015
+8	80	117743	order	null	null	200644	Flavobacteriales	6/13/2015
+9	89	117747	order	null	null	200666	Sphingobacteriales	6/13/2015
+2	20	2	phylum	null	null	200795	Chloroflexi	6/13/2015
+2	20	2	phylum	null	null	200930	Deferribacteres	6/13/2015
+1275	12672	2	phylum	73C7D7	null	201174	Actinobacteria	6/13/2015
+6	60	2	phylum	null	null	203691	Spirochaetes	6/13/2015
+6	60	203691	class	null	null	203692	Spirochaetia	6/13/2015
+51	507	57723	class	null	null	204432	Acidobacteriia	6/13/2015
+2	20	28211	order	null	null	204455	Rhodobacterales	6/13/2015
+2	20	28216	order	null	null	206350	Methylophilales	6/13/2015
+329	3270	28216	order	null	null	206351	Neisseriales	6/13/2015
+2	20	28216	order	null	null	206389	Rhodocyclales	6/13/2015
+99	984	186803	genus	null	null	207244	Anaerostipes	6/13/2015
+379	3767	28221	order	null	null	213115	Desulfovibrionales	6/13/2015
+4	40	28221	order	null	null	213118	Desulfobacterales	6/13/2015
+4	40	213118	family	null	null	213121	Desulfobulbaceae	6/13/2015
+2	20	69541	family	null	null	213421	Desulfuromonadaceae	6/13/2015
+2	20	69541	family	null	null	213422	Geobacteraceae	6/13/2015
+356	3538	29547	order	null	null	213849	Campylobacterales	6/13/2015
+1221	12135	292632	species	null	null	214851	Subdoligranulum variabile	6/13/2015
+115	1143	239759	species	null	null	214856	Alistipes finegoldii	6/13/2015
+11	109	186802	family	null	null	216572	Oscillospiraceae	6/13/2015
+8305	82540	541000	genus	null	null	216851	Faecalibacterium	6/13/2015
+2	20	119065	no_rank	null	null	224471	Burkholderiales Genera incertae sedis	6/13/2015
+1814	18029	171550	genus	null	null	239759	Alistipes	6/13/2015
+17	169	838	species	null	null	242750	Prevotella bergensis	6/13/2015
+30	298	541000	genus	null	null	244127	Anaerotruncus	6/13/2015
+19	189	186803	genus	null	null	248744	Marvinbryantia	6/13/2015
+4	40	135613	family	null	null	255526	Halothiobacillaceae	6/13/2015
+295	2932	84999	suborder	null	null	255727	Coriobacterineae	6/13/2015
+11	109	51290	phylum	null	null	256845	Lentisphaerae	6/13/2015
+9	89	1301	species	null	null	257758	Streptococcus pseudopneumoniae	6/13/2015
+2	20	186803	genus	null	null	265975	Oribacterium	6/13/2015
+142	1411	817	no_rank	null	null	272559	Bacteroides fragilis NCTC 9343	6/13/2015
+4	40	1313211	no_rank	null	null	278082	Victivallales	6/13/2015
+92	914	171551	genus	null	null	283168	Odoribacter	6/13/2015
+3	30	186807	genus	null	null	290184	Cryptanaerobacter	6/13/2015
+85	845	816	species	null	null	291645	Bacteroides nordii	6/13/2015
+2	20	200795	class	null	null	292625	Anaerolineae	6/13/2015
+2	20	292625	order	null	null	292629	Anaerolineales	6/13/2015
+1348	13397	541000	genus	null	null	292632	Subdoligranulum	6/13/2015
+413	4105	946234	species	null	null	292800	Flavonifractor plautii	6/13/2015
+101	1004	39948	species	null	null	308994	Dialister propionicifaciens	6/13/2015
+2	20	39948	species	null	null	309120	Dialister micraerophilus	6/13/2015
+21	209	1485	species	null	null	320882	Clostridium sp. ID5	6/13/2015
+25	248	239759	species	null	null	328813	Alistipes onderdonkii	6/13/2015
+70	696	239759	species	null	null	328814	Alistipes shahii	6/13/2015
+5	50	816	species	null	null	329854	Bacteroides intestinalis	6/13/2015
+190	1888	49928	species	null	null	330047	bacterium ic1340	6/13/2015
+4	40	186824	genus	null	null	332100	Planifilum	6/13/2015
+5	50	171549	no_rank	null	null	333046	unclassified Bacteroidales	6/13/2015
+2	20	162289	species	null	null	337315	Candidatus Peptoniphilus massiliensis	6/13/2015
+209	2077	841	species	null	null	360807	Roseburia inulinivorans	6/13/2015
+1112	11052	162289	species	null	null	361493	Peptoniphilus sp. gpac018A	6/13/2015
+865	8597	162289	species	null	null	361504	Peptoniphilus sp. gpac148	6/13/2015
+2845	28275	171551	genus	null	null	375288	Parabacteroides	6/13/2015
+10	99	816	species	null	null	376806	Bacteroides gallinarum	6/13/2015
+2	20	28056	genus	null	null	390988	Actinocatenispora	6/13/2015
+46	457	171551	genus	null	null	397864	Barnesiella	6/13/2015
+48	477	12908	no_rank	null	null	408169	metagenomes	6/13/2015
+46	457	410656	no_rank	null	null	408170	human gut metagenome	6/13/2015
+240	2385	33042	species	null	null	410072	Coprococcus comes	6/13/2015
+46	457	408169	no_rank	null	null	410656	organismal metagenomes	6/13/2015
+2	20	408169	no_rank	null	null	410657	ecological metagenomes	6/13/2015
+2	20	33039	no_rank	null	null	411460	Ruminococcus torques ATCC 27756	6/13/2015
+19	189	1485	species	null	null	411486	Clostridium sp. M62/1	6/13/2015
+4007	39824	162289	species	null	null	411567	Peptoniphilus gorbachii	6/13/2015
+8	80	165779	species	null	null	411577	Anaerococcus murdochii	6/13/2015
+4	40	74201	class	null	null	414999	Opitutae	6/13/2015
+4	40	414999	order	null	null	415001	Puniceicoccales	6/13/2015
+4	40	415001	family	null	null	415002	Puniceicoccaceae	6/13/2015
+3	30	128827	no_rank	null	null	433334	unclassified Erysipelotrichaceae	6/13/2015
+9	89	186803	genus	null	null	437755	Moryella	6/13/2015
+44	437	447020	species	null	null	446660	Adlercreutzia equolifaciens	6/13/2015
+44	437	84107	genus	null	null	447020	Adlercreutzia	6/13/2015
+11	109	216572	genus	null	null	459786	Oscillibacter	6/13/2015
+6	60	1485	species	null	null	460384	Clostridium lavalense	6/13/2015
+11	109	644652	species	null	null	471189	Gordonibacter pamelaeae	6/13/2015
+5	50	39948	species	null	null	487173	Dialister succinatiphilus	6/13/2015
+2895	28772	577310	species	null	null	487175	Parasutterella excrementihominis	6/13/2015
+3195	31754	836	species	null	null	501496	Porphyromonas bennonis	6/13/2015
+56	557	1260	no_rank	null	null	525282	Finegoldia magna ATCC 53516	6/13/2015
+810	8050	1239	class	null	null	526524	Erysipelotrichia	6/13/2015
+810	8050	526524	order	null	null	526525	Erysipelotrichales	6/13/2015
+244	2425	572511	species	null	null	536633	Blautia glucerasea	6/13/2015
+24	239	189971	species	null	null	537367	Clostridiaceae bacterium DJF_B063	6/13/2015
+22085	219494	186802	no_rank	null	null	538999	Clostridiales incertae sedis	6/13/2015
+2	20	1385	no_rank	null	null	539002	Bacillales incertae sedis	6/13/2015
+2	20	539002	no_rank	null	null	539738	Bacillales Family XI. Incertae Sedis	6/13/2015
+13858	137729	186802	family	null	null	541000	Ruminococcaceae	6/13/2015
+22067	219315	538999	family	null	null	543310	Clostridiales Family XI. Incertae Sedis	6/13/2015
+18	179	538999	family	null	null	543313	Clostridiales Family XII. Incertae Sedis	6/13/2015
+3	30	433334	no_rank	null	null	544447	unclassified Erysipelotrichaceae (miscellaneous)	6/13/2015
+15	149	2	phylum	null	null	544448	Tenericutes	6/13/2015
+37	368	574697	species	null	null	544645	Butyricimonas virosa	6/13/2015
+2	20	1121358	no_rank	null	null	558173	Corynebacterium doosanense CAU 212 = DSM 45436	6/13/2015
+2	20	768507	family	null	null	563798	Cyclobacteriaceae	6/13/2015
+9	89	200666	no_rank	null	null	563835	Chitinophagaceae	6/13/2015
+2647	26307	186803	genus	null	null	572511	Blautia	6/13/2015
+991	9849	171551	genus	null	null	574697	Butyricimonas	6/13/2015
+2928	29100	995019	genus	null	null	577310	Parasutterella	6/13/2015
+7	70	1263	species	null	null	592978	Ruminococcus faecis	6/13/2015
+2	20	84030	no_rank	null	null	610130	Clostridium saccharolyticum WM1	6/13/2015
+267	2654	909928	species	null	null	620903	Negativicoccus succinicivorans	6/13/2015
+11	109	84107	genus	null	null	644652	Gordonibacter	6/13/2015
+7	70	563835	genus	null	null	649460	Filimonas	6/13/2015
+6	60	33037	no_rank	null	null	655811	Anaerococcus vaginalis ATCC 51170	6/13/2015
+196	1948	186928	species	null	null	658081	Lachnospiraceae bacterium 1_1_57FAA	6/13/2015
+590	5864	186928	species	null	null	658082	Lachnospiraceae bacterium 2_1_58FAA	6/13/2015
+41	407	186928	species	null	null	658088	Lachnospiraceae bacterium 9_1_43BFAA	6/13/2015
+6	60	186928	species	null	null	658655	Lachnospiraceae bacterium 1_4_56FAA	6/13/2015
+32	318	292632	species	null	null	665956	Subdoligranulum sp. 4_3_54A2FAA	6/13/2015
+27	268	1730	species	null	null	674030	Eubacterium sp. WAL 18692	6/13/2015
+3	30	816	species	null	null	691816	Bacteroides rodentium	6/13/2015
+2	20	1717	no_rank	null	null	698968	Corynebacterium diphtheriae HC02	6/13/2015
+3	30	816	species	null	null	732242	Bacteroides paurosaccharolyticus	6/13/2015
+1097	10903	186928	species	null	null	742723	Lachnospiraceae bacterium 2_1_46FAA	6/13/2015
+11	109	118884	no_rank	null	null	744995	OMG group	6/13/2015
+9	89	744995	no_rank	null	null	745002	OM182 clade	6/13/2015
+5	50	1427376	species	null	null	747645	Parvibacter caecicola	6/13/2015
+2	20	976	class	null	null	768503	Cytophagia	6/13/2015
+2	20	768503	order	null	null	768507	Cytophagales	6/13/2015
+11	109	1134404	class	null	null	795747	Ignavibacteria	6/13/2015
+74	735	572511	species	null	null	871665	Blautia faecis	6/13/2015
+2	20	309120	no_rank	null	null	888062	Dialister micraerophilus DSM 19965	6/13/2015
+274	2723	31977	genus	null	null	909928	Negativicoccus	6/13/2015
+480	4771	909932	order	null	null	909929	Selenomonadales	6/13/2015
+3	30	909929	family	null	null	909930	Acidaminococcaceae	6/13/2015
+480	4771	1239	class	null	null	909932	Negativicutes	6/13/2015
+4	40	39779	species	null	null	938278	Clostridiales bacterium 9400853	6/13/2015
+1322	13139	39779	species	null	null	938288	Clostridiales bacterium 9401234	6/13/2015
+4	40	165779	species	null	null	938291	Anaerococcus sp. 8405254	6/13/2015
+322	3200	165779	species	null	null	938293	Anaerococcus sp. 9402080	6/13/2015
+474	4711	186813	genus	null	null	946234	Flavonifractor	6/13/2015
+29	288	186802	family	null	null	990719	Christensenellaceae	6/13/2015
+2928	29100	80840	family	null	null	995019	Sutterellaceae	6/13/2015
+8	80	28116	no_rank	null	null	997885	Bacteroides ovatus CL02T12C04	6/13/2015
+28	278	186813	genus	null	null	1017280	Pseudoflavonifractor	6/13/2015
+2	20	1263	species	null	null	1095771	Ruminococcus sp. JC304	6/13/2015
+369	3667	1263	species	null	null	1101723	Ruminococcus sp. RLB3	6/13/2015
+3	30	165779	species	null	null	1118055	Anaerococcus sp. PH9	6/13/2015
+33	328	1472764	no_rank	null	null	1118059	Kallipyga massiliensis ph2	6/13/2015
+4	40	1472761	no_rank	null	null	1118060	Enorma massiliensis phI	6/13/2015
+3	30	185291	species	null	null	1118061	Bacteroidales bacterium ph8	6/13/2015
+2	20	1716	species	null	null	1121358	Corynebacterium doosanense	6/13/2015
+11	109	68336	phylum	null	null	1134404	Ignavibacteriae	6/13/2015
+30	298	49928	species	null	null	1145623	bacterium NLAE-zl-C350	6/13/2015
+10739	106730	49928	species	null	null	1146296	bacterium NLAE-zl-P430	6/13/2015
+1895	18834	49928	species	null	null	1146723	bacterium NLAE-zl-P827	6/13/2015
+96	954	49928	species	null	null	1146772	bacterium NLAE-zl-P872	6/13/2015
+52	517	42214	species	null	null	1151741	Veillonellaceae bacterium canine oral taxon 211	6/13/2015
+321	3190	572511	species	null	null	1157314	Blautia sp. YHC-4	6/13/2015
+30	298	49928	species	null	null	1201401	bacterium NLAE-zl-H10	6/13/2015
+86	855	49928	species	null	null	1201423	bacterium NLAE-zl-H12	6/13/2015
+7	70	49928	species	null	null	1201878	bacterium NLAE-zl-H54	6/13/2015
+899	8935	574697	species	null	null	1217281	Butyricimonas sp. 214-4	6/13/2015
+17	169	574697	species	null	null	1232425	Butyricimonas sp. GD2	6/13/2015
+3	30	732242	no_rank	null	null	1236498	Bacteroides paurosaccharolyticus JCM 15092	6/13/2015
+280	2783	49928	species	null	null	1240104	bacterium CCF-01	6/13/2015
+9	89	1279	species	null	null	1276936	Staphylococcus petrasii	6/13/2015
+2	20	744995	no_rank	null	null	1302713	OM27 clade	6/13/2015
+11	109	256845	class	null	null	1313211	Lentisphaeria	6/13/2015
+3	30	766	family	null	null	1328881	Candidatus Midichloriaceae	6/13/2015
+217	2157	200630	no_rank	null	null	1411023	unclassified Peptostreptococcaceae (miscellaneous)	6/13/2015
+5	50	84107	genus	null	null	1427376	Parvibacter	6/13/2015
+4	40	1472762	species	null	null	1472761	Enorma massiliensis	6/13/2015
+4	40	84107	genus	null	null	1472762	Enorma	6/13/2015
+33	328	543310	genus	null	null	1472763	Kallipyga	6/13/2015
+33	328	1472763	species	null	null	1472764	Kallipyga massiliensis	6/13/2015
+89	885	128827	genus	null	null	1505663	Erysipelatoclostridium	6/13/2015
+								

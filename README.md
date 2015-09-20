@@ -10,6 +10,8 @@ Create a new folder (name it something unique) and upload all your uBiome data i
 
 [Bastian Greshake](./gedankenstuecke): contact = [@gedankenstuecke](http://twitter.com/gedankenstuecke)
 
+[Alex Meyer](./maskoficarus): contact = [@maskoficarus](http://www.twitter.com/maskoficarus)
+
 # Important Note
 
 By uploading files to this directory, you are making your data publicly available under the terms of [Creative Commons Attribution](https://creativecommons.org/licenses/by/4.0/legalcode) license.
